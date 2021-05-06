@@ -5,4 +5,5 @@ Arman Ambia,
 Jason Anthony,
 Nurhaliza Hassan,
 Iftekharul Islam,
-Ethan Kamus
+Ethan Kamus,
+Albert Dang
