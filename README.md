@@ -1,11 +1,16 @@
-# acm-MobileDevTeam
-Food network project
-Project members:
-Arman Ambia,
-Jason Anthony,
-Nurhaliza Hassan,
-Iftekharul Islam,
-Ethan Kamus,
-Albert Dang
+# Reciplease
+**Front-End Team**
+- Jason Anthony
+- Albert Dang
+- Nurhaliza Hassan
 
-THe project allows users to find recommended recipes based on answers to questions about their diet and preferences.
+**Back-End Team**
+- Arman Ambia
+- Iftekharul Islam
+- Ethan Kamus
+
+**Framework:** React Native
+
+**Language:** Javascript
+
+This app allows users to find recipes based on answers to questions about their diet and preferences.
